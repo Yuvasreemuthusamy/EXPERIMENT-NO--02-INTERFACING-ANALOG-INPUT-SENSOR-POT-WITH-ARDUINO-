@@ -1,5 +1,9 @@
  INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
+ **Name:Yuva Sree M**
 
+ **RegisterNumber:212223230251**
+ 
+ **Department:Artificial intelligence and data science**
 
 
 
@@ -69,8 +73,11 @@ CIRCUIT DIAGRAM
 **PROGRAM** 
  
 
+![Screenshot 2024-02-23 154918](https://github.com/Yuvasreemuthusamy/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144870887/c8d62d8c-d4a8-4d46-ba89-6845f09bedc2)
 
+**Graph**
 
+![Screenshot 2024-02-23 155425](https://github.com/Yuvasreemuthusamy/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144870887/13b76ddd-1b98-40cc-a0ad-097c39bfc971)
 
 
 
@@ -79,8 +86,14 @@ CIRCUIT DIAGRAM
 
 **
 **Simulation output:** 
-**
+**LED off:**
+![Screenshot 2024-02-23 154846](https://github.com/Yuvasreemuthusamy/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144870887/735d1170-239a-4ea9-a780-1b80a2f96dd8)
 
+**LED on:**
+![Screenshot 2024-02-23 154901](https://github.com/Yuvasreemuthusamy/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144870887/34ceffd0-6962-4b26-9e20-97cb1fb3abc1)
+
+**Schematic view**
+![Screenshot (111)](https://github.com/Yuvasreemuthusamy/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144870887/9fd6b602-5927-4e70-9287-ab311961be35)
 
 [My image](username.github.com/repository/img/image.jpg)
 
